@@ -1,6 +1,6 @@
 # Memory Game
 
-A classic memory card game built using **HTML**, **CSS**, and **JavaScript**. The game challenges players to match pairs of cards by flipping them over two at a time.
+A classic memory card game built using **HTML**, **CSS**, and **JavaScript**. The game challenges players to match pairs of cards by flipping them over two at a time. You can see it [here](https://remyshift.github.io/PMP-JS_MemoryCard_Game/).
 
 ## Table of Contents
 
